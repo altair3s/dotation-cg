@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dotation-cg/static/css/main.4d6b2f51.css",
+    "main.js": "/dotation-cg/static/js/main.a7325f94.js",
+    "static/js/453.7d45dc3a.chunk.js": "/dotation-cg/static/js/453.7d45dc3a.chunk.js",
+    "index.html": "/dotation-cg/index.html",
+    "main.4d6b2f51.css.map": "/dotation-cg/static/css/main.4d6b2f51.css.map",
+    "main.a7325f94.js.map": "/dotation-cg/static/js/main.a7325f94.js.map",
+    "453.7d45dc3a.chunk.js.map": "/dotation-cg/static/js/453.7d45dc3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6b2f51.css",
+    "static/js/main.a7325f94.js"
+  ]
+}
