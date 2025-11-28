@@ -58,3 +58,4 @@ config/keys.js
 # Backup files
 *.bak
 *.backup
+.env
