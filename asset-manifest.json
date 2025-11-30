@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dotation-cg/static/css/main.59bc6da6.css",
-    "main.js": "/dotation-cg/static/js/main.92d61966.js",
+    "main.js": "/dotation-cg/static/js/main.bb7bc9c1.js",
     "static/js/453.7d45dc3a.chunk.js": "/dotation-cg/static/js/453.7d45dc3a.chunk.js",
     "index.html": "/dotation-cg/index.html",
     "main.59bc6da6.css.map": "/dotation-cg/static/css/main.59bc6da6.css.map",
-    "main.92d61966.js.map": "/dotation-cg/static/js/main.92d61966.js.map",
+    "main.bb7bc9c1.js.map": "/dotation-cg/static/js/main.bb7bc9c1.js.map",
     "453.7d45dc3a.chunk.js.map": "/dotation-cg/static/js/453.7d45dc3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59bc6da6.css",
-    "static/js/main.92d61966.js"
+    "static/js/main.bb7bc9c1.js"
   ]
 }
